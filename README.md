@@ -1,4 +1,4 @@
-<h2 align="left">Olá, eu sou o Rafael!<br><br>🔹 Idade: 22 anos<br>🔹 Curso: 5º Semestre de Engenharia de Computação<br>🔹 Trabalho: Desenvolvedor de Firmware da Diel Energia e Freelancer na HPE Robótica<br><br>💻 Tecnologias que uso: C++, Python, HTML, CSS, JavaScript, Dart, Flutter e Git<br><br>Estou sempre em busca de novos desafios e oportunidades para aprender e crescer na área de desenvolvimento. Se você quiser saber mais sobre meus projetos ou colaborar, sinta-se à vontade para entrar em contato!</h2>
+<h2 align="left">Olá, eu sou o Rafael!<br><br>🔹 Idade: 23 anos<br>🔹 Curso: 6º Semestre de Engenharia de Computação<br>🔹 Trabalho: Desenvolvedor de Firmware Freelancer no Mente Ativa<br><br>💻 Tecnologias que uso: C++, Python, HTML, CSS, JavaScript, Dart, Flutter e Git<br><br>Estou sempre em busca de novos desafios e oportunidades para aprender e crescer na área de desenvolvimento. Se você quiser saber mais sobre meus projetos ou colaborar, sinta-se à vontade para entrar em contato!</h2>
 
 ###
 
