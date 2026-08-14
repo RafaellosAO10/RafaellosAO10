@@ -9,79 +9,70 @@
 
 </div>
 
-###
+<br />
+
+## 👋 Sobre mim
 
 Atuo no desenvolvimento de soluções embarcadas e de automação, integrando **firmware, hardware, software e Inteligência Artificial** para criar aplicações conectadas e orientadas a resultados. Formado em Engenharia da Computação pela UniFECAF, com base em Taboão da Serra/SP e atendimento 100% remoto.
 
-🏆 Liderei a equipe técnica do **ClimaTech**, plataforma IoT de automação de ar-condicionado que ficou em 3º lugar na ExpoTech 2026 — do sensoriamento em tempo real à automação inteligente, pensada pra tirar o consumo de energia do escuro e reduzir desperdício em ambientes reais.
-🌱 Fundador da **Mente Ativa**, plataforma que aproxima pessoas da eletrônica e da automação com hardware acessível.
-🤖 Curioso por natureza: do braço robótico ao dosador automático, gosto tanto de resolver problema de cliente quanto de montar gambiarra boa no fim de semana.
+- 🏆 Liderei a equipe técnica do **ClimaTech**, plataforma IoT de automação de ar-condicionado que ficou em 3º lugar na ExpoTech 2026 — do sensoriamento em tempo real à automação inteligente, pensada pra tirar o consumo de energia do escuro e reduzir desperdício em ambientes reais.
+- 🌱 Fundador da **Mente Ativa**, plataforma que aproxima pessoas da eletrônica e da automação com hardware acessível.
+- 🤖 Curioso por natureza: do braço robótico ao dosador automático, gosto tanto de resolver problema de cliente quanto de montar gambiarra boa no fim de semana.
 
-> Quer bater um papo em vez de ler linha por linha? O **Rafaellos**, uma extensão de IA da minha própria consciência, responde sobre tudo isso lá no portfólio 👇
+> Quer bater um papo em vez de ler linha por linha? O **Rafaellos**, uma extensão de IA da minha própria consciência, responde sobre tudo isso lá no [portfólio](https://portfolio-rafael-alves.vercel.app) 👇
 
-###
+<br />
 
-~~~text
-rafael@dev ~ %
-─────────────────────────────────────────────
-Formação ........... Engenharia da Computação — UniFECAF
-Semestre ............ 8º (confirmar)
-Localização ......... Taboão da Serra, SP — remoto 🇧🇷
-Foco atual .......... Firmware · IoT · Backend · IA
+## 🖥️ Terminal
 
-Linguagens .......... C/C++, Python, JavaScript
-Embarcados .......... ESP32, ESP-IDF, FreeRTOS, Arduino, ESP8266
-Backend & Web ....... Python, React, APIs REST, MQTT
-IA .................. Integração de LLMs a soluções embarcadas
+<div align="center">
+  <img src="https://portfolio-rafael-alves.vercel.app/readme-fetch.svg" width="100%" alt="rafael@dev — informações" />
+</div>
 
-Destaque ............ ClimaTech — 3º lugar ExpoTech 2026
-Projeto próprio ..... Mente Ativa
-─────────────────────────────────────────────
-~~~
+<br />
 
-###
+## 🛠️ Stack
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=cpp,python,js,react,arduino,html,css,git,github,vscode,figma&theme=dark" alt="tech stack" />
 </div>
 
-###
+<br />
+
+## 📊 Atividade no GitHub
 
 <div align="center">
 
-<table>
-  <tr>
-    <td valign="top"><img height="165" src="https://github-readme-stats.vercel.app/api?username=RafaellosAO10&show_icons=true&hide_border=true&count_private=true&bg_color=0D1116&title_color=60A5FA&icon_color=3B82F6&text_color=F1F3F7&hide=stars" alt="GitHub stats" /></td>
-    <td valign="top"><img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RafaellosAO10&layout=compact&hide_border=true&bg_color=0D1116&title_color=60A5FA&text_color=F1F3F7" alt="Top languages" /></td>
-  </tr>
-</table>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=RafaellosAO10&hide_border=true&background=050709&stroke=050709&ring=3B82F6&fire=3B82F6&currStreakLabel=60A5FA&sideLabels=99A3B3&dates=5C6572&currStreakNum=F1F3F7&sideNums=F1F3F7" alt="Streak stats" />
 
-<img src="https://ghchart.rshah.org/3b82f6/RafaellosAO10" width="100%" alt="Contribution heatmap" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=RafaellosAO10&bg_color=050709&color=60A5FA&line=3B82F6&point=F1F3F7&area=true&area_color=1D4ED8&hide_border=true&title_color=60A5FA&custom_title=Atividade%20no%20GitHub" width="100%" alt="Activity graph" />
 
 💼 *A maior parte do meu código é para clientes — os repositórios ficam privados, mas essas contribuições continuam contando aqui.*
 
 </div>
 
-###
+<br />
 
-### 🚀 Projetos em destaque
+## 🚀 Projetos em destaque
 
 <div align="center">
   <a href="https://portfolio-rafael-alves.vercel.app/projetos/climatech" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=ClimaTech&label=%F0%9F%8F%86%203%C2%BA%20ExpoTech%202026&color=3b82f6&labelColor=0d1116&style=for-the-badge" alt="ClimaTech" />
+    <img src="https://img.shields.io/static/v1?message=ClimaTech&label=%F0%9F%8F%86%203%C2%BA%20ExpoTech%202026&color=3b82f6&labelColor=050709&style=for-the-badge" alt="ClimaTech" />
   </a>
   <a href="https://portfolio-rafael-alves.vercel.app/projetos/vss-engenharia" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=VSS%20Engenharia&label=Gest%C3%A3o%20de%20obras%20%2B%20IA&color=14b8a6&labelColor=0d1116&style=for-the-badge" alt="VSS Engenharia" />
+    <img src="https://img.shields.io/static/v1?message=VSS%20Engenharia&label=Gest%C3%A3o%20de%20obras%20%2B%20IA&color=1d4ed8&labelColor=050709&style=for-the-badge" alt="VSS Engenharia" />
   </a>
   <a href="https://portfolio-rafael-alves.vercel.app/projetos/menteativa" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Mente%20Ativa&label=Projeto%20pr%C3%B3prio&color=8b5cf6&labelColor=0d1116&style=for-the-badge" alt="Mente Ativa" />
+    <img src="https://img.shields.io/static/v1?message=Mente%20Ativa&label=Projeto%20pr%C3%B3prio&color=60a5fa&labelColor=050709&style=for-the-badge" alt="Mente Ativa" />
   </a>
   <a href="https://portfolio-rafael-alves.vercel.app/projetos/first-robot" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=First%20Robot&label=Bra%C3%A7o%20rob%C3%B3tico&color=f59e0b&labelColor=0d1116&style=for-the-badge" alt="First Robot" />
+    <img src="https://img.shields.io/static/v1?message=First%20Robot&label=Bra%C3%A7o%20rob%C3%B3tico&color=93c5fd&labelColor=050709&style=for-the-badge" alt="First Robot" />
   </a>
 </div>
 
-###
+<br />
+
+## 📫 Contato
 
 <div align="center">
 
