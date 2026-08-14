@@ -1,9 +1,10 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:050709,100:3b82f6&height=180&section=header&text=Rafael%20Alves&fontSize=40&fontColor=f1f3f7&fontAlignY=38&desc=IoT%20%26%20AI%20Automation%20Developer&descAlignY=58&descSize=18&descColor=99a3b3&animation=fadeIn" width="100%" alt="banner" />
-
 <a href="https://portfolio-rafael-alves.vercel.app" target="_blank">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=16&pause=1200&color=60A5FA&center=true&vCenter=true&width=620&lines=Embedded+Systems+%C2%B7+Firmware+%C2%B7+IoT;Node.js+%2B+APIs+%2B+Automa%C3%A7%C3%A3o;ESP32+%7C+FreeRTOS+%7C+React+%7C+LLMs;Conversa+com+o+Rafaellos+no+meu+portf%C3%B3lio+%E2%86%92" alt="Typing SVG" />
+  <img src="https://portfolio-rafael-alves.vercel.app/readme-banner.svg" width="100%" alt="Rafael Alves — IoT & AI Automation Developer" />
+</a>
+<a href="https://portfolio-rafael-alves.vercel.app" target="_blank">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=16&pause=1200&color=60A5FA&background=050709&center=true&vCenter=true&width=1200&height=50&lines=Embedded+Systems+%C2%B7+Firmware+%C2%B7+IoT;Python+%2B+APIs+%2B+Automa%C3%A7%C3%A3o;ESP32+%7C+FreeRTOS+%7C+React+%7C+LLMs;Conversa+com+o+Rafaellos+no+meu+portf%C3%B3lio+%E2%86%92" width="100%" alt="Typing SVG" />
 </a>
 
 </div>
@@ -12,7 +13,7 @@
 
 Atuo no desenvolvimento de soluções embarcadas e de automação, integrando **firmware, hardware, software e Inteligência Artificial** para criar aplicações conectadas e orientadas a resultados. Formado em Engenharia da Computação pela UniFECAF, com base em Taboão da Serra/SP e atendimento 100% remoto.
 
-🏆 Liderei a equipe técnica do **ClimaTech** (3º lugar na ExpoTech 2026) — arquitetura e firmware dos Nodes ESP32, MQTT com TLS e definição do backend em Node.js.
+🏆 Liderei a equipe técnica do **ClimaTech**, plataforma IoT de automação de ar-condicionado que ficou em 3º lugar na ExpoTech 2026 — do sensoriamento em tempo real à automação inteligente, pensada pra tirar o consumo de energia do escuro e reduzir desperdício em ambientes reais.
 🌱 Fundador da **Mente Ativa**, plataforma que aproxima pessoas da eletrônica e da automação com hardware acessível.
 🤖 Curioso por natureza: do braço robótico ao dosador automático, gosto tanto de resolver problema de cliente quanto de montar gambiarra boa no fim de semana.
 
@@ -20,28 +21,28 @@ Atuo no desenvolvimento de soluções embarcadas e de automação, integrando **
 
 ###
 
-\```text
+~~~text
 rafael@dev ~ %
 ─────────────────────────────────────────────
-Formação ......... Engenharia da Computação — UniFECAF
-Semestre .......... 8º (confirmar)
-Localização ....... Taboão da Serra, SP — remoto 🇧🇷
-Foco atual ........ Firmware · IoT · Backend · IA
+Formação ........... Engenharia da Computação — UniFECAF
+Semestre ............ 8º (confirmar)
+Localização ......... Taboão da Serra, SP — remoto 🇧🇷
+Foco atual .......... Firmware · IoT · Backend · IA
 
-Linguagens ........ C/C++, Python, JavaScript
-Embarcados ........ ESP32, ESP-IDF, FreeRTOS, Arduino, ESP8266
-Backend & Web ..... Node.js, React, APIs REST, MQTT
-IA ................ Integração de LLMs a soluções embarcadas
+Linguagens .......... C/C++, Python, JavaScript
+Embarcados .......... ESP32, ESP-IDF, FreeRTOS, Arduino, ESP8266
+Backend & Web ....... Python, React, APIs REST, MQTT
+IA .................. Integração de LLMs a soluções embarcadas
 
-Destaque .......... ClimaTech — 3º lugar ExpoTech 2026
-Projeto próprio ... Mente Ativa
+Destaque ............ ClimaTech — 3º lugar ExpoTech 2026
+Projeto próprio ..... Mente Ativa
 ─────────────────────────────────────────────
-\```
+~~~
 
 ###
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=cpp,python,js,react,nodejs,arduino,html,css,git,github,vscode,figma&theme=dark" alt="tech stack" />
+  <img src="https://skillicons.dev/icons?i=cpp,python,js,react,arduino,html,css,git,github,vscode,figma&theme=dark" alt="tech stack" />
 </div>
 
 ###
@@ -50,14 +51,14 @@ Projeto próprio ... Mente Ativa
 
 <table>
   <tr>
-    <td valign="top"><img height="165" src="https://github-readme-stats.vercel.app/api?username=RafaellosAO10&show_icons=true&hide_border=true&bg_color=0D1116&title_color=60A5FA&icon_color=3B82F6&text_color=F1F3F7&hide=stars" alt="GitHub stats" /></td>
+    <td valign="top"><img height="165" src="https://github-readme-stats.vercel.app/api?username=RafaellosAO10&show_icons=true&hide_border=true&count_private=true&bg_color=0D1116&title_color=60A5FA&icon_color=3B82F6&text_color=F1F3F7&hide=stars" alt="GitHub stats" /></td>
     <td valign="top"><img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RafaellosAO10&layout=compact&hide_border=true&bg_color=0D1116&title_color=60A5FA&text_color=F1F3F7" alt="Top languages" /></td>
   </tr>
 </table>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=RafaellosAO10&hide_border=true&background=0D1116&stroke=0D1116&ring=3B82F6&fire=F59E0B&currStreakLabel=60A5FA&sideLabels=99A3B3&dates=5C6572&currStreakNum=F1F3F7&sideNums=F1F3F7" alt="Streak stats" />
+<img src="https://ghchart.rshah.org/3b82f6/RafaellosAO10" width="100%" alt="Contribution heatmap" />
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=RafaellosAO10&bg_color=0D1116&color=60A5FA&line=3B82F6&point=F1F3F7&area=true&hide_border=true" width="100%" alt="Activity graph" />
+💼 *A maior parte do meu código é para clientes — os repositórios ficam privados, mas essas contribuições continuam contando aqui.*
 
 </div>
 
