@@ -34,21 +34,7 @@ Atuo no desenvolvimento de soluções embarcadas e de automação, integrando **
 ## 🛠️ Stack
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=cpp,python,js,react,arduino,html,css,git,github,vscode,figma&theme=dark" alt="tech stack" />
-</div>
-
-<br />
-
-## 📊 Atividade no GitHub
-
-<div align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=RafaellosAO10&hide_border=true&background=050709&stroke=050709&ring=3B82F6&fire=3B82F6&currStreakLabel=60A5FA&sideLabels=99A3B3&dates=5C6572&currStreakNum=F1F3F7&sideNums=F1F3F7" alt="Streak stats" />
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=RafaellosAO10&bg_color=050709&color=60A5FA&line=3B82F6&point=F1F3F7&area=true&area_color=1D4ED8&hide_border=true&title_color=60A5FA&custom_title=Atividade%20no%20GitHub" width="100%" alt="Activity graph" />
-
-💼 *A maior parte do meu código é para clientes — os repositórios ficam privados, mas essas contribuições continuam contando aqui.*
-
+  <img src="https://skillicons.dev/icons?i=cpp,python,js,react,arduino,html,css,git,github,postgres,linux,vscode&theme=dark" alt="tech stack" />
 </div>
 
 <br />
