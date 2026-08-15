@@ -9,7 +9,7 @@ Sou Engenheiro de Computação e atuo como Desenvolvedor IoT & Automação com I
 
 No fim das contas, gosto de tecnologia, de aprender coisas novas e de transformar ideias em projetos que saem do papel. 😅
 
-> Quer bater um papo em vez de ler linha por linha? O **Rafaellos**, uma extensão de IA da minha própria consciência, te mostra tudo isso na prática lá embaixo 👇
+> Quer bater um papo em vez de ler linha por linha? O **Rafaellos**, uma extensão de IA da minha própria consciência, te mostra tudo isso na prática lá embaixo 👇🏻
 
 <br />
 
