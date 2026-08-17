@@ -18,7 +18,7 @@ No fim das contas, gosto de tecnologia, de aprender coisas novas e de transforma
 <div align="center">
 
 <a href="https://portfolio-rafael-alves.vercel.app" target="_blank">
-  <img src="https://portfolio-rafael-alves.vercel.app/readme-banner.svg" width="100%" alt="Rafael Alves — IoT & AI Automation Developer" />
+  <img src="https://portfolio-rafael-alves.vercel.app/readme-banner.svg?v=2" width="100%" alt="Rafael Alves — IoT & AI Automation Developer" />
 </a>
 <a href="https://portfolio-rafael-alves.vercel.app" target="_blank">
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=16&pause=1200&color=60A5FA&background=050709&center=true&vCenter=true&width=1200&height=50&lines=Embedded+Systems+%C2%B7+Firmware+%C2%B7+IoT;Python+%2B+APIs+%2B+Automa%C3%A7%C3%A3o;ESP32+%7C+FreeRTOS+%7C+React+%7C+LLMs;Conversa+com+o+Rafaellos+no+meu+portf%C3%B3lio+%E2%86%92" width="100%" alt="Typing SVG" />
